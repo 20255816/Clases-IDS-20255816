@@ -15,6 +15,10 @@ Pi = 3.14159265359
 print(f"El valor de Pi es:{Pi:.4f}")
 # una variable entera guarda números, una cadena texto
 
-#Sección 2
+#Sección 2 - Del usuario
 
-usrname = input("Hola, ¿cuál es tu nombre?:" )
+print("Sección de usuario...")
+usrname = input("Hola, ¿cuál es tu nombre?: " )
+print(f"Bienvenido, {usrname}")
+usrage = input("Cuál es tu edad: ")
+print(f"El doble de tu edad sería: {usrage*2} jaja xd")
