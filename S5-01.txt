@@ -1,0 +1,21 @@
+Què es un palindromo? 
+SLICING DE CADENAS EN PYTHON
+
+
+cadena[inicio:fin:paso]
+
+Ej: hola
+print(hola[1:3:1]) = ola --> la palabra se lista empezando desde 0 // H0 O1 L2 A3 //
+
+Verificar si una palabra es un palindromo? Con saltos de -1, es decir, empieza desde el final
+RECONOCER - print(RECONOCER[ : :-1]) = RECONOCER // HOLA - print(HOLA[ : :-1]) = ALOH <----
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+La forma de los tipos de datos es interesante: String -> Todos los caracteres son una unidad
+                                               Lista -> Cada cosa (separado por comas) es una unidad
+                                               tupla -> Lo mismo que una lista, pero inmutable 
+
+-por una razon una esto funciona asì: SLICING : [2, 3) Cuenta el primero, pero el segundo no.
+
+como mutar una lista? ejemplo: Lista1[4] = 17 // se cambia el valor 4 de las lista en cuestion
