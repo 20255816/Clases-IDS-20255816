@@ -1,0 +1,32 @@
+If = es un condicional
+
+condicionasles:
+if
+for
+while
+
+
+if (caso) = true
+    se va ejecutatar lo que pongamos aca debajo
+else: (cualquier otra cosa)
+    Se ejecuta esto de aca abajo
+
+Se pueden ahcer cadenas de IF, por ejemplo: Si pasa tal cosa (2 opciones)(dentro de la opcion 2(otras 2 opciones)) y asi sucesivamente...
+
+
+
+Para hacer que un codigo se ejecute en bucle (un segmento o algo) se puede usar while y for
+
+
+
+Iterable: que hay varios elementos que se deben recorrer si o si para completar algo. Cada elemento es un iterador (ej, listas, tuplas)
+iterable: coleciión de objetos
+
+
+for: para cada vez que se haga algo, (recorra iteradores), ejecutar tal codigo esas veces
+EJemplo en iftests.py 
+
+
+nombre = [1,2,3] -> iterables: 1, iteradores: 3
+
+for (el nombre que le querramos dar a los iteradores) in (nombre del iterable)
