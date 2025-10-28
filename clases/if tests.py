@@ -1,4 +1,4 @@
-"""nota = int(input())
+""""nota = int(input())
 
 if nota == 10:
     print("Nice")
@@ -11,7 +11,7 @@ else:
         else:
             print("bro idk")"""
             
-#aplicar impuestos de     
+"""#aplicar impuestos de     
 monto = float(input())
 tipo = str(input("Ingrese el tipo (Local/Exportacion)"))
 impuesto = 0 
@@ -19,4 +19,6 @@ impuesto = 0
 if tipo.lower == "local" and monto > 500:
     impuesto = 0.1
 elif tipo.lower == "export" and monto > 500:
-    impuesto = 0.14
+    impuesto = 0.14"""
+    
+    

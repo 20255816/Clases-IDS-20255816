@@ -1,0 +1,10 @@
+Los numeros no tienen largo
+
+in es para textos, no para números. LOs tipos no se comparan con 0 < >, se comparan con is
+
+% es para saber el residuo entre 2 números.
+
+.count -> cuantas vaces aparece un "algo" dentro de una cadena de texto 
+
+cómo comparar 2 tipos de datos o encontrar el tipo de dato ingresado
+
