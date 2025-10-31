@@ -1,0 +1,16 @@
+tipos de bucles: con fin y sin fin
+con fin: usamos alguna string, tupla, lista para determinar su fin
+infinito: algo es = a algo
+
+para iniciar un bucle con while necesitamos un dato bool (algo que sea true o false)
+
+Que pasa si el señor pone en una consola con 2 opciones (Yes/No) (Y/N)
+
+si la terminal pide Y/N Y EL USUARIO PONE Yes o No, podemos sacarlo usando el slicing del primer caracter
+pero eso valida cualquier cosa que inicie con N o con Y
+
+((el range se vio y tengo que eestudiar que es eso))        
+   
+con el pop se pude guardar archivos borrados
+
+el pop es para borrar un valor de una lista, tambiens sirva para guardarlo en una variable que se va a quedar en la ram

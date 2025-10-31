@@ -22,3 +22,14 @@ elif tipo.lower == "export" and monto > 500:
     impuesto = 0.14"""
     
     
+#usos del while
+aprobacion = True 
+while aprobacion:
+    eleccion = input("Quieres seguir jugando? (Y/N)")
+    
+    if eleccion.lower == 'n':
+        aprobacion = False
+    else:
+        print('No se que es eso we :v')
+    
+    
